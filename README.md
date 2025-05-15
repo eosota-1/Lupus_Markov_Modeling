@@ -17,4 +17,4 @@ Conclusion: Over a lifetime horizon, Belimumab and Anifrolumab improve clinical 
 - : Open-source code
 
 ## Credits
-This project was developed by [Elizabeth Osota](https://www.linkedin.com/in/eosota/) at the Georgia Institute of Technology.
+This project was developed by [Elizabeth Osota](https://www.linkedin.com/in/eosota/) and Taofik during ISYE 8803(Healthcare Decision Making) at the Georgia Institute of Technology.
