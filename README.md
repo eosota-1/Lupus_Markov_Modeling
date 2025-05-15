@@ -1,6 +1,5 @@
 
-
-# Abstract 
+# Project Abstract 
 
 Importance : Systemic lupus erythematosus (SLE) disproportionately affects Black women in the United States at higher rates and severity than the general population. Biologics are the newest treatment category for SLE, presenting greater efficacy with lower side effects, and our study seeks to evaluate their cost-effectiveness in this high-risk population. 
 
@@ -13,8 +12,21 @@ Results: SOC remained the most cost-effective strategy. Compared to SOC, Anifrol
 Conclusion: Over a lifetime horizon, Belimumab and Anifrolumab improve clinical outcomes for Black women with moderate-to-severe SLE, but neither is cost-effective at the current cost of treatment. Anifrolumab demonstrated the most effectiveness in terms of QALY but would require a price reduction to be economically viable compared to SOC. These findings signify the need for equitable pricing policies and the importance of considering demographic disparities in SLE treatment strategies.  
 
 ## File Repository
-- : Journal-style paper
-- : Open-source code
+- Lupus_Markov_Paper.docx : Journal-style paper
+- Lupus_Markov_Model_Code.Rmd: Markov model code and visualizations
+- Lupus_Markov_Model_Inputs.R : Markov model inputs
+- 2021_female_black_life_table.xlsx : 2021 Life table for Black, non-Hispanic females in the United States; Sourced from the [CDC](https://www.cdc.gov/nchs/data/nvsr/nvsr72/nvsr72-12.pdf)
+
+## Setup & Usage
+
+### Requirements
+- R (version ≥ 4.1.0)
+- RStudio (Recommended)
+
+### To run the model:
+
 
 ## Credits
-This project was developed by [Elizabeth Osota](https://www.linkedin.com/in/eosota/) and Taofik during ISYE 8803(Healthcare Decision Making) at the Georgia Institute of Technology.
+This project was developed by [Elizabeth Osota](https://www.linkedin.com/in/eosota/) and Taofik Ahmed Suleiman in ISYE 8803(Healthcare Decision-Making) at the Georgia Institute of Technology.
+
+## Last Updated: May 14th, 2025
