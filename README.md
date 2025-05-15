@@ -21,9 +21,11 @@ Conclusion: Over a lifetime horizon, Belimumab and Anifrolumab improve clinical 
 
 ### Requirements
 - R (version ≥ 4.1.0)
-- RStudio (Recommended)
+- RStudio
 
 ### To run the model:
+- Download the Lupus_Markov_Model_Code.Rmd, Lupus_Markov_Model_Inputs.R, and 2021_female_black_life_table.xlsx to the same folder.
+- Open the full code file in R Studio and run the model. 
 
 
 ## Credits
